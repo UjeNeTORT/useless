@@ -1,0 +1,5 @@
+1 /bin/cat /home/netort/useless/main.cpp
+3 /bin/ping -c 1 google.com
+2 /bin/gcc --version
+
+4 /bin/g++ --version
